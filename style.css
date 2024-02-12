@@ -5,6 +5,9 @@
 .upper-part-img{
     border-radius: 100%;
     width: 18rem;
+    border-color: black;
+    border-style: double;
+
 }
 .mid-part-h3{
     text-align: center;
