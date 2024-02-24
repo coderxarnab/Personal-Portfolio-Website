@@ -53,7 +53,7 @@
 .skill-list-btn-name{
     text-decoration: none;
     background: transparent;
-    padding: 15px 10px;
+    padding: 8px 3px;
     border-radius: 3px;
     font-weight: 500;
     text-transform: uppercase;
@@ -101,4 +101,8 @@
 }
 .language-h{
     text-align: center;
+}
+.footer-h5{
+    text-align: center;
+    margin-top: 10rem;
 }
