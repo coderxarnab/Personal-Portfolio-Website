@@ -3,7 +3,7 @@
 <br>
 #Contact - coderxarnab@gmail.com
 
-<h5> Tech Stack Used </h5> <br>
+<h4> Tech Stack Used </h4>
 <ul>
   <li> HTML5 </li>
   <li> CSS3 </li>
