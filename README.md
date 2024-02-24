@@ -4,5 +4,7 @@
 #Contact - coderxarnab@gmail.com
 
 <h5> Tech Stack Used </h5> <br>
-<ul> HTML5 </ul> <br>
-<ul> CSS3 </ul>
+<ul>
+  <li> HTML5 </li>
+  <li> CSS3 </li>
+</ul>
