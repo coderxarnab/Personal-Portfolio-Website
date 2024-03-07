@@ -1,20 +1,12 @@
-<h1 class="Personal-Portfolio-Website">Personal-Portfolio-Website</h1>
-Personal Portfolio Website of - Arnab Biswas
-# Contact with the developer 
-E-mail - arnab.techguy@gmail.com
+<h1> Personal-Portfolio-Website </h1>
+Peronal Porfolio Website of Arnab Biswas
 <br>
-<a href="instagram.com/arnab_biswas__"> Instagram </a>
-<br>
-<a href="x.com/arnab_biswas__"> X (Twitter) </a>
-<br> 
-<p>
-  Watch by website by - <a href="https://coderarnab.github.io/Personal-Portfolio-Website/">
-    Clicking Here
-  </a>
-</p>
+Contact - coderxarnab@gmail.com <br>
+<a href="https://coderxarnab-portfolio.vercel.app"> Click Here </a> to view my project.. ! 
 
-<style>
-.Personal-Portfolio-Website{
-  text-align:center;
-}
-</style>
+<h4> Tech Stack Used </h4>
+<ul>
+  <li> HTML5 </li>
+  <li> CSS3 </li>
+</ul>
+<br>
